@@ -28,4 +28,7 @@ public enum Cell {
     public String getSymbol() {
         return symbol;
     }
+    
+    //This is a simple test to verify the correct implementation of githook!!
+    
 }
